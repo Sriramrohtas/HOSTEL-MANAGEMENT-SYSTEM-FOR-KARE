@@ -36,6 +36,7 @@
      <!-- This page plugin CSS -->
      <link href="../assets/extra-libs/datatables.net-bs4/css/dataTables.bootstrap4.css" rel="stylesheet">
     <!-- Custom CSS -->
+    <!-- Custom CSS -->
     <link href="../dist/css/style.min.css" rel="stylesheet">
 
 </head>
